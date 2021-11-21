@@ -1,0 +1,182 @@
+.current
+{
+ display:inline;
+}
+.hidden
+{
+ display:none;
+}
+
+.current2
+{
+ display:inline;
+}
+.hidden2
+{
+ display:none;
+}
+
+.current3
+{
+ display:inline;
+}
+.hidden3
+{
+ display:none;
+}
+
+.current4
+{
+ display:inline;
+}
+.hidden4
+{
+ display:none;
+}
+
+.current5
+{
+ display:inline;
+}
+.hidden5
+{
+ display:none;
+}
+
+.current6
+{
+ display:inline;
+}
+.hidden6
+{
+ display:none;
+}
+.current7
+{
+ display:inline;
+}
+.hidden7
+{
+ display:none;
+}
+.current8
+{
+ display:inline;
+}
+.hidden8
+{
+ display:none;
+}
+.current9
+{
+ display:inline;
+}
+.hidden9
+{
+ display:none;
+}
+.current10
+{
+ display:inline;
+}
+.hidden10
+{
+ display:none;
+}
+.current11
+{
+ display:inline;
+}
+.hidden11
+{
+ display:none;
+}
+
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+
+img
+{
+
+ width:300px;
+ height: 300px;
+
+}
+
+ .one {
+   top: 0%;
+   left: 0%;
+   width:30%;
+   position: absolute;
+ }
+
+
+ .two {
+   top: 0%;
+   left: 10%;
+   width: 30%;
+   position: absolute;
+ }
+
+ .three {
+   top:0%;
+   left:20%;
+   width: 30%;
+   position: absolute;
+ }
+
+ .four {
+   top:0%;
+   left:30%;
+   width:30%;
+   position: absolute;
+ }
+
+ .five {
+   top:0%;
+   left:40%;
+   width: 30%;
+   position: absolute;
+ }
+
+ .six {
+   top:0%;
+   left:50%;
+   width:30%;
+   position: absolute;
+ }
+
+ .seven {
+   top:40%;
+   left:0%;
+   width: 30%;
+   position: absolute;
+ }
+
+ .eight {
+   top:40%;
+   left:20%;
+   width: 30%;
+   position: absolute;
+ }
+
+ .nine {
+   top:40%;
+   left:40%;
+   width: 30%;
+   position: absolute;
+ }
+
+ .ten {
+   top:40%;
+   left:60%;
+   width: 30%;
+   position: absolute;
+ }
+ .eleven {
+   top:40%;
+   left:80%;
+   width: 30%;
+   position: absolute;
+ }

@@ -1,0 +1,1301 @@
+body {
+  background-color: white;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+img {
+  width: 100%;
+
+
+}
+
+
+.box {
+  width: 4%;
+  height: auto;
+  position: relative;
+  text-align: center;
+  float:left;
+
+}
+.current
+{
+ display:inline;
+}
+.hidden
+{
+ display:none;
+}
+
+.current2
+{
+ display:inline;
+}
+.hidden2
+{
+ display:none;
+}
+
+.current3
+{
+ display:inline;
+}
+.hidden3
+{
+ display:none;
+}
+
+.current4
+{
+ display:inline;
+}
+.hidden4
+{
+ display:none;
+}
+
+.current5
+{
+ display:inline;
+}
+.hidden5
+{
+ display:none;
+}
+
+.current6
+{
+ display:inline;
+}
+.hidden6
+{
+ display:none;
+}
+.current7
+{
+ display:inline;
+}
+.hidden7
+{
+ display:none;
+}
+.current8
+{
+ display:inline;
+}
+.hidden8
+{
+ display:none;
+}
+.current9
+{
+ display:inline;
+}
+.hidden9
+{
+ display:none;
+}
+.current10
+{
+ display:inline;
+}
+.hidden10
+{
+ display:none;
+}
+.current11
+{
+ display:inline;
+}
+.hidden11
+{
+ display:none;
+}
+.current12
+{
+ display:inline;
+}
+.hidden12
+{
+ display:none;
+}
+.current13
+{
+ display:inline;
+}
+.hidden13
+{
+ display:none;
+}
+.current14
+{
+ display:inline;
+}
+.hidden14
+{
+ display:none;
+}
+.current15
+{
+ display:inline;
+}
+.hidden15
+{
+ display:none;
+}
+.current16
+{
+ display:inline;
+}
+.hidden16
+{
+ display:none;
+}
+.current17
+{
+ display:inline;
+}
+.hidden17
+{
+ display:none;
+}
+.current18
+{
+ display:inline;
+}
+.hidden18
+{
+ display:none;
+}
+.current19
+{
+ display:inline;
+}
+.hidden19
+{
+ display:none;
+}
+.current20
+{
+ display:inline;
+}
+.hidden20
+{
+ display:none;
+}
+.current21
+{
+ display:inline;
+}
+.hidden21
+{
+ display:none;
+}
+.current22
+{
+ display:inline;
+}
+.hidden22
+{
+ display:none;
+}
+.current23
+{
+ display:inline;
+}
+.hidden23
+{
+ display:none;
+}
+.current24
+{
+ display:inline;
+}
+.hidden24
+{
+ display:none;
+}
+.current25
+{
+ display:inline;
+}
+.hidden25
+{
+ display:none;
+}
+.current26
+{
+ display:inline;
+}
+.hidden26
+{
+ display:none;
+}
+.current27
+{
+ display:inline;
+}
+.hidden27
+{
+ display:none;
+}
+.current28
+{
+ display:inline;
+}
+.hidden28
+{
+ display:none;
+}
+.current29
+{
+ display:inline;
+}
+.hidden29
+{
+ display:none;
+}
+.current30
+{
+ display:inline;
+}
+.hidden30
+{
+ display:none;
+}
+.current31
+{
+ display:inline;
+}
+.hidden31
+{
+ display:none;
+}
+.current32
+{
+ display:inline;
+}
+.hidden32
+{
+ display:none;
+}
+.current33
+{
+ display:inline;
+}
+.hidden33
+{
+ display:none;
+}
+.current34
+{
+ display:inline;
+}
+.hidden34
+{
+ display:none;
+}
+.current35
+{
+ display:inline;
+}
+.hidden35
+{
+ display:none;
+}
+.current36
+{
+ display:inline;
+}
+.hidden36
+{
+ display:none;
+}
+.current37
+{
+ display:inline;
+}
+.hidden37
+{
+ display:none;
+}
+.current38
+{
+ display:inline;
+}
+.hidden38
+{
+ display:none;
+}
+.current39
+{
+ display:inline;
+}
+.hidden39
+{
+ display:none;
+}
+.current40
+{
+ display:inline;
+}
+.hidden40
+{
+ display:none;
+}
+.current41
+{
+ display:inline;
+}
+.hidden41
+{
+ display:none;
+}
+.current42
+{
+ display:inline;
+}
+.hidden42
+{
+ display:none;
+}
+.current43
+{
+ display:inline;
+}
+.hidden43
+{
+ display:none;
+}
+.current44
+{
+ display:inline;
+}
+.hidden44
+{
+ display:none;
+}
+.current45
+{
+ display:inline;
+}
+.hidden45
+{
+ display:none;
+}
+.current46
+{
+ display:inline;
+}
+.hidden46
+{
+ display:none;
+}
+.current47
+{
+ display:inline;
+}
+.hidden47
+{
+ display:none;
+}
+.current48
+{
+ display:inline;
+}
+.hidden48
+{
+ display:none;
+}
+.current49
+{
+ display:inline;
+}
+.hidden49
+{
+ display:none;
+}
+.current50
+{
+ display:inline;
+}
+.hidden50
+{
+ display:none;
+}
+.current51
+{
+ display:inline;
+}
+.hidden51
+{
+ display:none;
+}
+.current52
+{
+ display:inline;
+}
+.hidden52
+{
+ display:none;
+}
+.current53
+{
+ display:inline;
+}
+.hidden53
+{
+ display:none;
+}
+.current54
+{
+ display:inline;
+}
+.hidden54
+{
+ display:none;
+}
+.current55
+{
+ display:inline;
+}
+.hidden55
+{
+ display:none;
+}
+.current56
+{
+ display:inline;
+}
+.hidden56
+{
+ display:none;
+}
+.current57
+{
+ display:inline;
+}
+.hidden57
+{
+ display:none;
+}
+.current58
+{
+ display:inline;
+}
+.hidden58
+{
+ display:none;
+}
+.current59
+{
+ display:inline;
+}
+.hidden59
+{
+ display:none;
+}
+.current60
+{
+ display:inline;
+}
+.hidden60
+{
+ display:none;
+}
+.current61
+{
+ display:inline;
+}
+.hidden61
+{
+ display:none;
+}
+.current62
+{
+ display:inline;
+}
+.hidden62
+{
+ display:none;
+}
+.current63
+{
+ display:inline;
+}
+.hidden63
+{
+ display:none;
+}
+.current64
+{
+ display:inline;
+}
+.hidden64
+{
+ display:none;
+}
+.current65
+{
+ display:inline;
+}
+.hidden65
+{
+ display:none;
+}
+.current66
+{
+ display:inline;
+}
+.hidden66
+{
+ display:none;
+}
+.current67
+{
+ display:inline;
+}
+.hidden67
+{
+ display:none;
+}
+.current68
+{
+ display:inline;
+}
+.hidden68
+{
+ display:none;
+}
+.current69
+{
+ display:inline;
+}
+.hidden69
+{
+ display:none;
+}
+.current70
+{
+ display:inline;
+}
+.hidden70
+{
+ display:none;
+}
+.current71
+{
+ display:inline;
+}
+.hidden71
+{
+ display:none;
+}
+.current72
+{
+ display:inline;
+}
+.hidden72
+{
+ display:none;
+}
+.current73
+{
+ display:inline;
+}
+.hidden73
+{
+ display:none;
+}
+.current74
+{
+ display:inline;
+}
+.hidden74
+{
+ display:none;
+}
+.current75
+{
+ display:inline;
+}
+.hidden75
+{
+ display:none;
+}
+.current76
+{
+ display:inline;
+}
+.hidden76
+{
+ display:none;
+}
+.current77
+{
+ display:inline;
+}
+.hidden77
+{
+ display:none;
+}
+.current78
+{
+ display:inline;
+}
+.hidden78
+{
+ display:none;
+}
+.current79
+{
+ display:inline;
+}
+.hidden79
+{
+ display:none;
+}
+.current80
+{
+ display:inline;
+}
+.hidden80
+{
+ display:none;
+}
+.current81
+{
+ display:inline;
+}
+.hidden81
+{
+ display:none;
+}
+.current82
+{
+ display:inline;
+}
+.hidden82
+{
+ display:none;
+}
+.current83
+{
+ display:inline;
+}
+.hidden83
+{
+ display:none;
+}
+.current84
+{
+ display:inline;
+}
+.hidden84
+{
+ display:none;
+}
+.current85
+{
+ display:inline;
+}
+.hidden85
+{
+ display:none;
+}
+.current86
+{
+ display:inline;
+}
+.hidden86
+{
+ display:none;
+}
+.current87
+{
+ display:inline;
+}
+.hidden87
+{
+ display:none;
+}
+.current88
+{
+ display:inline;
+}
+.hidden88
+{
+ display:none;
+}
+.current89
+{
+ display:inline;
+}
+.hidden89
+{
+ display:none;
+}
+.current90
+{
+ display:inline;
+}
+.hidden90
+{
+ display:none;
+}
+.current91
+{
+ display:inline;
+}
+.hidden91
+{
+ display:none;
+}
+.current92
+{
+ display:inline;
+}
+.hidden92
+{
+ display:none;
+}
+.current93
+{
+ display:inline;
+}
+.hidden93
+{
+ display:none;
+}
+.current94
+{
+ display:inline;
+}
+.hidden94
+{
+ display:none;
+}
+.current95
+{
+ display:inline;
+}
+.hidden95
+{
+ display:none;
+}
+.current96
+{
+ display:inline;
+}
+.hidden96
+{
+ display:none;
+}
+.current97
+{
+ display:inline;
+}
+.hidden97
+{
+ display:none;
+}
+.current98
+{
+ display:inline;
+}
+.hidden98
+{
+ display:none;
+}
+.current99
+{
+ display:inline;
+}
+.hidden99
+{
+ display:none;
+}
+.current100
+{
+ display:inline;
+}
+.hidden100
+{
+ display:none;
+}
+.current101
+{
+ display:inline;
+}
+.hidden101
+{
+ display:none;
+}
+.current102
+{
+ display:inline;
+}
+.hidden102
+{
+ display:none;
+}
+.current103
+{
+ display:inline;
+}
+.hidden103
+{
+ display:none;
+}
+.current104
+{
+ display:inline;
+}
+.hidden104
+{
+ display:none;
+}
+.current105
+{
+ display:inline;
+}
+.hidden105
+{
+ display:none;
+}
+.current106
+{
+ display:inline;
+}
+.hidden106
+{
+ display:none;
+}
+.current107
+{
+ display:inline;
+}
+.hidden107
+{
+ display:none;
+}
+.current108
+{
+ display:inline;
+}
+.hidden108
+{
+ display:none;
+}
+.current109
+{
+ display:inline;
+}
+.hidden109
+{
+ display:none;
+}
+.current110
+{
+ display:inline;
+}
+.hidden110
+{
+ display:none;
+}
+.current111
+{
+ display:inline;
+}
+.hidden111
+{
+ display:none;
+}
+.current112
+{
+ display:inline;
+}
+.hidden112
+{
+ display:none;
+}
+.current113
+{
+ display:inline;
+}
+.hidden113
+{
+ display:none;
+}
+.current114
+{
+ display:inline;
+}
+.hidden114
+{
+ display:none;
+}
+.current115
+{
+ display:inline;
+}
+.hidden115
+{
+ display:none;
+}
+.current116
+{
+ display:inline;
+}
+.hidden116
+{
+ display:none;
+}
+.current117
+{
+ display:inline;
+}
+.hidden117
+{
+ display:none;
+}
+.current118
+{
+ display:inline;
+}
+.hidden118
+{
+ display:none;
+}
+.current119
+{
+ display:inline;
+}
+.hidden119
+{
+ display:none;
+}
+.current120
+{
+ display:inline;
+}
+.hidden120
+{
+ display:none;
+}
+.current121
+{
+ display:inline;
+}
+.hidden121
+{
+ display:none;
+}
+.current122
+{
+ display:inline;
+}
+.hidden122
+{
+ display:none;
+}
+.current123
+{
+ display:inline;
+}
+.hidden123
+{
+ display:none;
+}
+.current124
+{
+ display:inline;
+}
+.hidden124
+{
+ display:none;
+}
+.current125
+{
+ display:inline;
+}
+.hidden125
+{
+ display:none;
+}
+.current126
+{
+ display:inline;
+}
+.hidden126
+{
+ display:none;
+}
+.current127
+{
+ display:inline;
+}
+.hidden127
+{
+ display:none;
+}
+.current128
+{
+ display:inline;
+}
+.hidden128
+{
+ display:none;
+}
+.current129
+{
+ display:inline;
+}
+.hidden129
+{
+ display:none;
+}
+.current130
+{
+ display:inline;
+}
+.hidden130
+{
+ display:none;
+}
+.current131
+{
+ display:inline;
+}
+.hidden131
+{
+ display:none;
+}
+.current132
+{
+ display:inline;
+}
+.hidden132
+{
+ display:none;
+}
+.current133
+{
+ display:inline;
+}
+.hidden133
+{
+ display:none;
+}
+.current134
+{
+ display:inline;
+}
+.hidden134
+{
+ display:none;
+}
+.current135
+{
+ display:inline;
+}
+.hidden135
+{
+ display:none;
+}
+.current136
+{
+ display:inline;
+}
+.hidden136
+{
+ display:none;
+}
+.current137
+{
+ display:inline;
+}
+.hidden137
+{
+ display:none;
+}
+.current138
+{
+ display:inline;
+}
+.hidden138
+{
+ display:none;
+}
+.current139
+{
+ display:inline;
+}
+.hidden139
+{
+ display:none;
+}
+.current140
+{
+ display:inline;
+}
+.hidden140
+{
+ display:none;
+}
+.current141
+{
+ display:inline;
+}
+.hidden141
+{
+ display:none;
+}
+.current142
+{
+ display:inline;
+}
+.hidden142
+{
+ display:none;
+}
+.current143
+{
+ display:inline;
+}
+.hidden143
+{
+ display:none;
+}
+.current144
+{
+ display:inline;
+}
+.hidden144
+{
+ display:none;
+}
+.current145
+{
+ display:inline;
+}
+.hidden145
+{
+ display:none;
+}
+.current146
+{
+ display:inline;
+}
+.hidden146
+{
+ display:none;
+}
+.current147
+{
+ display:inline;
+}
+.hidden147
+{
+ display:none;
+}
+.current148
+{
+ display:inline;
+}
+.hidden148
+{
+ display:none;
+}
+.current149
+{
+ display:inline;
+}
+.hidden149
+{
+ display:none;
+}
+.current150
+{
+ display:inline;
+}
+.hidden150
+{
+ display:none;
+}
+.current151
+{
+ display:inline;
+}
+.hidden152
+{
+ display:none;
+}
+.current153
+{
+ display:inline;
+}
+.hidden153
+{
+ display:none;
+}
+.current154
+{
+ display:inline;
+}
+.hidden154
+{
+ display:none;
+}
+.current155
+{
+ display:inline;
+}
+.hidden155
+{
+ display:none;
+}
+.current156
+{
+ display:inline;
+}
+.hidden156
+{
+ display:none;
+}
+.current157
+{
+ display:inline;
+}
+.hidden157
+{
+ display:none;
+}
+.current158
+{
+ display:inline;
+}
+.hidden158
+{
+ display:none;
+}
+.current159
+{
+ display:inline;
+}
+.hidden159
+{
+ display:none;
+}
+.current160
+{
+ display:inline;
+}
+.hidden160
+{
+ display:none;
+}
